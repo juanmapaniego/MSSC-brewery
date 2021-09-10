@@ -1,0 +1,11 @@
+com\jmpaniego\msscbeerinventoryservice\web\model\BeerInventoryDto$BeerInventoryDtoBuilder.class
+com\jmpaniego\msscbeerinventoryservice\repositories\BeerInventoryRepository.class
+com\jmpaniego\msscbeerinventoryservice\web\mappers\DateMapper.class
+com\jmpaniego\msscbeerinventoryservice\domain\BeerInventory$BeerInventoryBuilder.class
+com\jmpaniego\msscbeerinventoryservice\BeerInventoryApplication.class
+com\jmpaniego\msscbeerinventoryservice\domain\BeerInventory.class
+com\jmpaniego\msscbeerinventoryservice\web\mappers\BeerInventoryMapper.class
+com\jmpaniego\msscbeerinventoryservice\web\mappers\BeerInventoryMapperImpl.class
+com\jmpaniego\msscbeerinventoryservice\bootstrap\BeerInventoryBootstrap.class
+com\jmpaniego\msscbeerinventoryservice\web\controllers\BeerInventoryController.class
+com\jmpaniego\msscbeerinventoryservice\web\model\BeerInventoryDto.class
